@@ -2,6 +2,7 @@
 
 ### 🚀 Currently
 - 📘 Studying **Software Development**
+- 💻 Developer at **Meetix**
 
 ### 📚 Learning
 - **Docker**
