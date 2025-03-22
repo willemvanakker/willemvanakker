@@ -7,6 +7,7 @@
 ### 📚 Learning
 - **Laravel**
 - **Linux**
+- **Website security**
 
 ### 💻 About Me
 - **Most used languages:** `HTML`, `CSS`, `PHP`, `JavaScript`, `Lua`
