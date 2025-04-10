@@ -1,14 +1,15 @@
-## 👋 Hi there!
+## 👋 Hello!
 
-### 🚀 Currently
-- 📘 Studying **Software Development**
-- 💻 Developer at **Meetix**
+### 🚀 **Current Focus**
+- 📘 **Studying:** Software Development
+- 💻 **Developer at:** Meetix
 
-### 📚 Learning
+### 📚 **Learning Journey**
 - **Laravel**
 - **Linux**
-- **Website security**
+- **Website Security**
 
-### 💻 About Me
-- **Most used languages:** `HTML`, `CSS`, `PHP`, `JavaScript`, `Lua`
-- **Familiar with:** `nginx`, `git`, `MySQL`, `Docker`
+### 💻 **Tech Stack**
+- **Most Used Languages:** HTML, CSS, PHP, JavaScript, Lua
+- **Familiar With:** Nginx, Git, MySQL, Docker, Apache
+- **Occasionally Work With:** C#
