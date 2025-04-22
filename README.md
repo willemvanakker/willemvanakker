@@ -11,5 +11,5 @@
 
 ### 💻 **Tech Stack**
 - **Most Used Languages:** HTML, CSS, PHP, JavaScript, Lua
-- **Familiar With:** Nginx, Git, MySQL, Docker, Apache
+- **Familiar With:** Nginx, Git, Mariadb, Docker, Apache
 - **Occasionally Work With:** C#
