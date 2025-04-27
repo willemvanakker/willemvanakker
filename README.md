@@ -2,7 +2,7 @@
 
 ### 🚀 **Current Focus**
 - 📘 **Studying:** Software Development
-- 💻 **Developer at:** Meetix
+- 💻 **Lead developer/coördinator at:** Meetix
 
 ### 📚 **Learning Journey**
 - **Laravel**
